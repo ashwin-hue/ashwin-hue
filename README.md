@@ -115,19 +115,6 @@ I'm a **Computer Science & Engineering (AI & ML)** undergraduate at **Rajalakshm
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashwin-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin-hue&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=ashwin-hue&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I work as a **freelancer** and I'm open to **freelance projects, internships and collaborations** in AI/ML, web development and IoT. If you have an idea worth building, reach out through my [portfolio](https://ashwinkumark.netlify.app) or [email](mailto:ashwinkumar2k5@gmail.com).
