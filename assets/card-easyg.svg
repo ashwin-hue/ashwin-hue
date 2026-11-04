@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 262" width="500" height="262" role="img" aria-label="EasyG - ECG monitoring wearable">
+<title>EasyG - ECG monitoring wearable</title>
+<defs></defs>
+
+<rect x="16" y="16" width="472" height="240" fill="#7A6200"/>
+<rect x="6" y="6" width="472" height="240" fill="#0B0B0B" stroke="#FFD60A" stroke-width="3"/>
+<clipPath id="c"><rect x="6" y="6" width="472" height="240"/></clipPath>
+<rect x="6" y="6" width="472" height="54" fill="#FFD60A"/>
+<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="24" y="46" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="32" fill="#000000" textLength="85" lengthAdjust="spacingAndGlyphs">EASYG</text>
+<text x="466" y="41" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="end"  xml:space="preserve">#03</text>
+<text x="24" y="82" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="252.0" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">// IOT WEARABLE  ·  ECG  ·  EDGE ML</text>
+<text x="24" y="108" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="421.2" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">IoT wearable for continuous ECG monitoring using ESP32</text>
+<text x="24" y="129" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="343.2" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">+ AD8232, with an ML model for early anomaly</text>
+<text x="24" y="150" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="374.4" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">detection, low-latency transmission and a power-</text>
+<text x="24" y="171" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="163.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">efficient Flutter UI.</text>
+
+<rect x="24" y="208" width="43.6" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="35" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="21.6" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">C++</text><rect x="75.6" y="208" width="58.0" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="86.6" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="36.0" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">ESP32</text><rect x="141.6" y="208" width="36.4" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="152.6" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="14.4" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">ML</text><rect x="186.0" y="208" width="72.4" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="197.0" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">Flutter</text>
+<g clip-path="url(#c)"><rect x="6" width="472" height="2" fill="#FFD60A" opacity="0.16"><animate attributeName="y" values="60;246;60" dur="5s" repeatCount="indefinite"/></rect></g>
+
+</svg>

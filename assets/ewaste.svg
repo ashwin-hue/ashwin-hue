@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="E-waste management hardware: collects e-waste, weighs it and pays the user via UPI for the weight and the components">
+<title>E-waste management hardware: collects e-waste, weighs it and pays the user via UPI for the weight and the components</title>
+<defs></defs>
+
+<rect x="16" y="16" width="980" height="250" fill="#7A6200"/>
+<rect x="6" y="6" width="980" height="250" fill="#0B0B0B" stroke="#FFD60A" stroke-width="3"/>
+<text x="40" y="44" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="265.2" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">// HARDWARE  ·  E-WASTE MANAGEMENT</text>
+<rect x="319.2" y="30" width="44" height="20" fill="#FFD60A"><animate attributeName="opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.5;0.5;0.75;0.75" dur="1.4s" repeatCount="indefinite"/></rect>
+<text x="327.2" y="45" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" fill="#000000" text-anchor="start" textLength="23.4" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">NEW</text>
+<text stroke="#FFD60A" stroke-width="1.4" stroke-linejoin="round" x="38" y="116" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="76" fill="#FFD60A" textLength="290" lengthAdjust="spacingAndGlyphs">E-WASTE</text>
+<text stroke="#FFFFFF" stroke-width="1.4" stroke-linejoin="round" x="40" y="154" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="28" fill="#FFFFFF" textLength="340" lengthAdjust="spacingAndGlyphs">COLLECT. WEIGH. GET PAID.</text>
+<text x="40" y="192" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="14" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="436.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">▸ Collects e-waste and weighs it right on the device</text>
+<text x="40" y="216" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="14" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="394.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">▸ Values the components used inside the e-waste</text>
+<text x="40" y="240" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="14" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="478.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">▸ Pays the user via UPI for the weight and the components</text>
+
+<rect x="690" y="26" width="276" height="214" rx="10" fill="none" stroke="#FFD60A" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="710" y="50" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" opacity="0" textLength="108.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">DROP E-WASTE IN<animate attributeName="opacity" values="1;0" keyTimes="0;0.15" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="710" y="50" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" opacity="0" textLength="79.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">WEIGHING...<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.15;0.4" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="710" y="50" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" opacity="0" textLength="151.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">VALUING COMPONENTS...<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4;0.6" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="710" y="50" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" opacity="0" textLength="122.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PAYING VIA UPI...<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6;0.75" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="710" y="50" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#3FB950" opacity="0" textLength="115.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PAID. THANK YOU!<animate attributeName="opacity" values="0;1" keyTimes="0;0.75" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text>
+<rect x="710" y="60" width="236" height="50" fill="#000" stroke="#FFD60A" stroke-width="2"/>
+<text x="728" y="97" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="28" font-weight="700" fill="#FFD60A" opacity="0" textLength="117.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0.00 KG<animate attributeName="opacity" values="1;0" keyTimes="0;0.15" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="728" y="97" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="28" font-weight="700" fill="#FFD60A" opacity="0" textLength="117.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0.42 KG<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.15;0.22" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="728" y="97" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="28" font-weight="700" fill="#FFD60A" opacity="0" textLength="117.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0.87 KG<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.22;0.3" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="728" y="97" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="28" font-weight="700" fill="#FFD60A" opacity="0" textLength="117.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1.25 KG<animate attributeName="opacity" values="0;1" keyTimes="0;0.3" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text>
+<text x="938" y="74" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#8B949E" text-anchor="end"  xml:space="preserve">DEMO</text>
+
+<!-- circuit board dropping into the bin -->
+<g opacity="1"><animate attributeName="opacity" values="1;0" keyTimes="0;0.13" calcMode="discrete" dur="10s" repeatCount="indefinite"/>
+  <g transform="translate(752,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 40;0 40" keyTimes="0;0.12;1" dur="10s" repeatCount="indefinite"/>
+    <rect width="26" height="18" rx="2" fill="#1F7A3A"/><rect x="8" y="5" width="10" height="8" fill="#111"/>
+    <rect x="2" y="2" width="3" height="3" fill="#FFD60A"/><rect x="21" y="2" width="3" height="3" fill="#FFD60A"/><rect x="2" y="13" width="3" height="3" fill="#FFD60A"/><rect x="21" y="13" width="3" height="3" fill="#FFD60A"/>
+  </g></g>
+</g>
+<!-- bin -->
+<path d="M726 158 H806 M732 158 L742 216 H790 L800 158" fill="none" stroke="#FFD60A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="766" y="192" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="22" font-weight="700" fill="#FFD60A" text-anchor="middle"  xml:space="preserve">E</text>
+<!-- flow to phone -->
+<line x1="812" y1="196" x2="864" y2="196" stroke="#FFD60A" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1s" repeatCount="indefinite"/></line>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6;0.75" calcMode="discrete" dur="10s" repeatCount="indefinite"/>
+  <g transform="translate(812,196)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;52 0;52 0" keyTimes="0;0.6;0.75;1" dur="10s" repeatCount="indefinite"/>
+    <circle r="8" fill="#FFD60A" stroke="#000000" stroke-width="2"/><text x="0" y="4" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#000000" text-anchor="middle"  xml:space="preserve">₹</text>
+  </g></g>
+</g>
+<!-- phone / UPI -->
+<rect x="872" y="124" width="64" height="108" rx="10" fill="#000" stroke="#FFD60A" stroke-width="3"/>
+<rect x="896" y="130" width="16" height="3" rx="1.5" fill="#FFD60A" opacity="0.6"/>
+<text x="904" y="160" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="17" font-weight="700" fill="#FFD60A" text-anchor="middle"  xml:space="preserve">UPI</text>
+<g opacity="1"><text x="904" y="204" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="30" font-weight="700" fill="#FFD60A" text-anchor="middle"  xml:space="preserve">₹</text><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" calcMode="discrete" dur="10s" repeatCount="indefinite"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;0.75" calcMode="discrete" dur="10s" repeatCount="indefinite"/>
+  <circle cx="904" cy="196" r="17" fill="#1A7F37"/><path d="M896 196 L902 203 L913 189" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="904" y="224" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#3FB950" text-anchor="middle"  xml:space="preserve">PAID</text>
+</g>
+
+</svg>

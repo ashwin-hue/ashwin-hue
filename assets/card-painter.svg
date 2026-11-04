@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 262" width="500" height="262" role="img" aria-label="AI Virtual Painter - gesture controlled painting">
+<title>AI Virtual Painter - gesture controlled painting</title>
+<defs></defs>
+
+<rect x="16" y="16" width="472" height="240" fill="#7A6200"/>
+<rect x="6" y="6" width="472" height="240" fill="#0B0B0B" stroke="#FFD60A" stroke-width="3"/>
+<clipPath id="c"><rect x="6" y="6" width="472" height="240"/></clipPath>
+<rect x="6" y="6" width="472" height="54" fill="#FFD60A"/>
+<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="24" y="46" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="32" fill="#000000" textLength="306" lengthAdjust="spacingAndGlyphs">AI VIRTUAL PAINTER</text>
+<text x="466" y="41" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="end"  xml:space="preserve">#04</text>
+<text x="24" y="82" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="208.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">// COMPUTER VISION  ·  GEMINI</text>
+<text x="24" y="108" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="366.6" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">Gesture-controlled painting app: real-time hand</text>
+<text x="24" y="129" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="390.0" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">tracking for drawing, erasing and color selection,</text>
+<text x="24" y="150" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="390.0" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">plus Gemini-powered screen analysis that can solve</text>
+<text x="24" y="171" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start" textLength="241.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">math problems from screenshots.</text>
+
+<rect x="24" y="208" width="65.2" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="35" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="43.2" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">Python</text><rect x="97.2" y="208" width="65.2" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="108.2" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="43.2" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">OpenCV</text><rect x="170.4" y="208" width="86.8" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="181.4" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="64.8" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">MediaPipe</text><rect x="265.2" y="208" width="94.0" height="26" rx="13" fill="none" stroke="#FFD60A" stroke-width="1.6"/><text x="276.2" y="225" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FFD60A" text-anchor="start" textLength="72.0" lengthAdjust="spacingAndGlyphs"  xml:space="preserve">Gemini API</text>
+<g clip-path="url(#c)"><rect x="6" width="472" height="2" fill="#FFD60A" opacity="0.16"><animate attributeName="y" values="60;246;60" dur="5s" repeatCount="indefinite"/></rect></g>
+
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 52" width="1000" height="52" role="img" aria-label="Open for freelance projects, internships and collaborations">
+<title>Open for freelance projects, internships and collaborations</title>
+<defs>
+<linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.04" stop-color="#fff"/><stop offset="0.96" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<mask id="m"><rect width="1000" height="52" fill="url(#g)"/></mask>
+<pattern id="hz" width="20" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="10" height="10" fill="#000000"/><rect x="10" width="10" height="10" fill="#FFD60A"/></pattern>
+</defs>
+
+<rect width="1000" height="52" fill="#FFD60A"/>
+<g mask="url(#m)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1593.6 0" dur="19.9s" repeatCount="indefinite"/>
+    <text x="0" y="31.6" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#000000" textLength="1593.6" lengthAdjust="spacingAndGlyphs" style="white-space:pre" xml:space="preserve">OPEN FOR FREELANCE   <tspan fill="#000000">◆</tspan>   INTERNSHIPS   <tspan fill="#000000">◆</tspan>   COLLABORATIONS   <tspan fill="#000000">◆</tspan>   AI / ML   <tspan fill="#000000">◆</tspan>   WEB DEVELOPMENT   <tspan fill="#000000">◆</tspan>   IOT &amp; HARDWARE   <tspan fill="#000000">◆</tspan>   GOT AN IDEA WORTH BUILDING? LET'S TALK   <tspan fill="#000000">◆</tspan>   </text>
+    <text x="1593.6" y="31.6" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#000000" textLength="1593.6" lengthAdjust="spacingAndGlyphs" style="white-space:pre" xml:space="preserve">OPEN FOR FREELANCE   <tspan fill="#000000">◆</tspan>   INTERNSHIPS   <tspan fill="#000000">◆</tspan>   COLLABORATIONS   <tspan fill="#000000">◆</tspan>   AI / ML   <tspan fill="#000000">◆</tspan>   WEB DEVELOPMENT   <tspan fill="#000000">◆</tspan>   IOT &amp; HARDWARE   <tspan fill="#000000">◆</tspan>   GOT AN IDEA WORTH BUILDING? LET'S TALK   <tspan fill="#000000">◆</tspan>   </text>
+  </g>
+</g>
+
+<rect width="1000" height="6" fill="url(#hz)"/><rect y="46" width="1000" height="6" fill="url(#hz)"/>
+</svg>

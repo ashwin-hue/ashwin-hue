@@ -1,126 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashwin%20Kumar%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Freelance%20Developer%20%7C%20Product%20Builder&descSize=18&descAlignY=60" alt="Ashwin Kumar K" />
+<img src="assets/banner.svg" width="100%" alt="Ashwin Kumar K - AI & ML undergraduate, freelance developer, product builder">
+<img src="assets/ticker-news.svg" width="100%" alt="Live ticker: open for freelance, Kraft, MacroBoard, NeuroScan AI, EasyG, AI Virtual Painter">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Freelance+Developer+%7C+AI+%26+ML+Undergraduate;Building+ML+%2B+Web+%2B+IoT+products;Turning+ideas+into+live%2C+working+software;Deep+Learning+%7C+React+%7C+ESP32+%7C+Gemini+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=FFD60A&background=0D1117&center=true&vCenter=true&width=760&height=56&lines=Freelance+Developer+%7C+AI+%26+ML+Undergraduate;Building+ML+%2B+Web+%2B+IoT+products;Hardware+that+pays+you+for+your+e-waste;Turning+ideas+into+live%2C+working+software;Deep+Learning+%7C+React+%7C+ESP32+%7C+Gemini+API" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashwinkumark.netlify.app-58A6FF?style=for-the-badge&logo=netlify&logoColor=white)](https://ashwinkumark.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-ashwinkumar2k5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinkumar2k5@gmail.com)
-![Freelancer](https://img.shields.io/badge/Freelancer-Open_for_Projects-2EA043?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-FFD60A?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://ashwinkumark.netlify.app)
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-FFD60A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ashwinkumar2k5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FFD60A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Status](https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-2EA043?style=for-the-badge&labelColor=000000)](mailto:ashwinkumar2k5@gmail.com)
+
+<img src="assets/ticker-stack.svg" width="100%" alt="Tech stack ticker: Python, TensorFlow, OpenCV, React, Flask, ESP32 and more">
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+<img src="assets/sec-about.svg" width="100%" alt="About me">
+
+<img align="right" width="330" src="assets/about-card.svg" alt="Player card: AI & ML undergrad at Rajalakshmi Institute of Technology, open for projects">
 
 I'm a **Computer Science & Engineering (AI & ML)** undergraduate at **Rajalakshmi Institute of Technology, Chennai**. I love building products that sit where **intelligent software meets the real world**: deep-learning apps, interactive web experiences, and hardware-backed IoT systems.
 
 - 🧠 Developing deep-learning applications with **Python & TensorFlow**
 - 🌐 Shipping **live websites** for real users as a frontend developer
-- 🔌 Building **IoT and accessibility hardware** with ESP32 and web-based configuration tools
+- 🔌 Building **IoT and accessibility hardware** with ESP32 and web-based configuration tools, plus an **e-waste collection device** that weighs your e-waste and pays you via UPI
 - 💼 **Freelance developer**: I take on projects ranging from live business websites to AI-powered web apps
 - 🎯 Interests: **Machine Learning · Deep Learning · IoT · Web Development · UI/UX**
 
----
+<br clear="right"/>
 
-## 🎂 My Product: Kraft, A Remarkable Surprise
+<br/>
 
-> *Turn a birthday wish into an unforgettable digital experience.*
+<img src="assets/sec-product.svg" width="100%" alt="My product">
 
-**[Kraft A Remarkable Surprise](https://wishsomeoneclosetoyou.netlify.app/)** creates **personalized, magical birthday websites** that you can send to someone special.
+<div align="center">
 
-- 📖 **Animated storybook** experience, personalized for the birthday person
-- 🎶 **Acoustic melodies** that set the mood
-- 🕯️ **Real microphone candle blowing**: the birthday person actually blows out the candles
+<a href="https://wishsomeoneclosetoyou.netlify.app/">
+  <img src="assets/kraft.svg" width="100%" alt="Kraft, A Remarkable Surprise: personalized animated birthday websites with real microphone candle blowing">
+</a>
 
-[![Try Kraft](https://img.shields.io/badge/Try_Kraft-wishsomeoneclosetoyou.netlify.app-FF69B4?style=for-the-badge&logo=netlify&logoColor=white)](https://wishsomeoneclosetoyou.netlify.app/)
+<sub>Turn a birthday wish into something they'll remember: an animated storybook, acoustic melodies, and candles they actually blow out.</sub>
 
----
+[![Try Kraft](https://img.shields.io/badge/TRY_KRAFT-wishsomeoneclosetoyou.netlify.app-FFD60A?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://wishsomeoneclosetoyou.netlify.app/)
 
-## 🚀 Featured Projects
+</div>
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🎛️ **[MacroBoard](https://macroboard.netlify.app)** | Open-source, zero-code platform to configure ESP-based accessibility boards: key mapping, function assignment, device profiles and custom layouts, with no firmware writing needed. | `React` `ESP` `Microcontrollers` |
-| 🧠 **NeuroScan AI** | Stroke detection from brain CT scans (ischemia / bleeding / normal). Flask backend with in-memory image processing (nothing stored on disk), confidence scores, diagnostic summaries and a nearby-specialist finder. | `Python` `TensorFlow` `Flask` |
-| ❤️ **EasyG** | IoT wearable for continuous ECG monitoring using ESP32 + AD8232, with an ML model for early anomaly detection, low-latency transmission and a power-efficient Flutter UI. | `C++` `ESP32` `ML` `Flutter` |
-| 🎨 **AI Virtual Painter** | Gesture-controlled painting app: real-time hand tracking for drawing, erasing and color selection, plus Gemini-powered screen analysis that can solve math problems from screenshots. | `Python` `OpenCV` `MediaPipe` `Gemini API` |
+<br/>
 
----
+<img src="assets/sec-projects.svg" width="100%" alt="Featured projects">
 
-## 🌍 Live Work
+<div align="center">
 
-| Project | Role | Link |
+<a href="https://macroboard.netlify.app"><img src="assets/card-macroboard.svg" width="48.8%" alt="MacroBoard: open-source, zero-code configuration for ESP accessibility boards"></a>
+<img src="assets/card-neuroscan.svg" width="48.8%" alt="NeuroScan AI: stroke detection from brain CT scans">
+<img src="assets/card-easyg.svg" width="48.8%" alt="EasyG: ECG monitoring wearable with ESP32 and ML">
+<img src="assets/card-painter.svg" width="48.8%" alt="AI Virtual Painter: gesture-controlled painting with Gemini">
+
+<br/>
+
+<img src="assets/ewaste.svg" width="100%" alt="E-waste management hardware: collects e-waste, weighs it and pays the user via UPI for the weight and the components">
+
+<sub>A hardware device that collects e-waste, weighs it, and pays the user via UPI based on the weight and the components used inside.</sub>
+
+</div>
+
+<br/>
+
+<img src="assets/sec-live.svg" width="100%" alt="Live work">
+
+| 📡 Project | Role | Link |
 |---|---|---|
 | 🏥 **Rhealthcity** (Healthcare Portal) | Frontend Developer, responsive and accessible UI in a 5-member team | [rhealthcity.com](https://www.rhealthcity.com/) |
 | 🛍️ **Product Catalog Website** (Plastic Products & Frozen Foods) | Frontend Developer, designed and built a fully responsive live retail catalog | [veera.saicards.in](https://veera.saicards.in/) |
 | 🌏 **SaeSpartner** (India Market Entry Consulting) | Developer, built the multi-page corporate website with service and industry pages, a trade enquiry section and a consultation booking form | [saespartner.com](https://saespartner.com/) |
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<img src="assets/sec-stack.svg" width="100%" alt="Tech stack">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD60A)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFD60A)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FFD60A)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=FFD60A)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFD60A)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FFD60A)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FFD60A)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FFD60A)
 
 **AI / ML & Computer Vision**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FFD60A)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=FFD60A)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=flat-square&logo=google&logoColor=FFD60A)
+![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=googlegemini&logoColor=FFD60A)
 
 **Web, Backend & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FFD60A)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFD60A)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=FFD60A)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=FFD60A)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=FFD60A)
 
 **IoT & Hardware**
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Embedded_C++-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=FFD60A)
+![Embedded C++](https://img.shields.io/badge/Embedded_C++-000000?style=flat-square&logo=arduino&logoColor=FFD60A)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFD60A)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD60A)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FFD60A)
+![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda&logoColor=FFD60A)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=FFD60A)
 
----
+<br/>
 
-## 🏅 Certifications
+<img src="assets/sec-certs.svg" width="100%" alt="Certifications">
 
 - ☁️ **AWS**: Machine Learning for Natural Language Processing
 - 🍃 **MongoDB**: Basics, Developer Track and Aggregation Framework
 - 🎖️ Verified professional **digital badge portfolio**
 
----
+<br/>
 
-## 🤝 Let's Connect
+<img src="assets/sec-pulse.svg" width="100%" alt="GitHub pulse">
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" width="100%" alt="Contribution snake eating my commit graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&bg_color=0D1117&border_color=FFD60A&title_color=FFD60A&icon_color=FFD60A&text_color=FFFFFF&ring_color=FFD60A" height="170" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&border=FFD60A&ring=FFD60A&fire=FFD60A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD60A&sideLabels=FFD60A&dates=9DA7B3" height="170" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFD60A&line=FFD60A&point=FFFFFF&area=true&area_color=FFD60A&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+<br/>
+
+<img src="assets/sec-connect.svg" width="100%" alt="Let's connect">
 
 I work as a **freelancer** and I'm open to **freelance projects, internships and collaborations** in AI/ML, web development and IoT. If you have an idea worth building, reach out through my [portfolio](https://ashwinkumark.netlify.app) or [email](mailto:ashwinkumar2k5@gmail.com).
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-FFD60A?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://ashwinkumark.netlify.app)
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-FFD60A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ashwinkumar2k5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FFD60A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+
+<img src="assets/ticker-cta.svg" width="100%" alt="Open for freelance projects, internships and collaborations">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FFD60A&labelColor=000000&style=for-the-badge" alt="Profile views" />
 
 </div>
