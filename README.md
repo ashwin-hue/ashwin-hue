@@ -133,20 +133,6 @@ I'm a **Computer Science & Engineering (AI & ML)** undergraduate at **Rajalakshm
 
 <br/>
 
-<img src="assets/sec-pulse.svg" width="100%" alt="GitHub pulse">
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" width="100%" alt="Contribution snake eating my commit graph" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&bg_color=FDF1E2&border_color=AB92BF&title_color=655A7C&icon_color=AB92BF&text_color=655A7C&ring_color=AB92BF" height="170" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=FDF1E2&border=AB92BF&ring=AB92BF&fire=AB92BF&currStreakNum=655A7C&sideNums=655A7C&currStreakLabel=655A7C&sideLabels=655A7C&dates=655A7C" height="170" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=FDF1E2&color=655A7C&line=AB92BF&point=655A7C&area=true&area_color=AB92BF&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-</div>
-
-<br/>
 
 <img src="assets/sec-connect.svg" width="100%" alt="Let's connect">
 
