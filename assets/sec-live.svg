@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="Live Work">
 <title>Live Work</title>
-<defs></defs>
+<defs><style>@font-face{font-family:'AbrilS';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAOYAA8AAAAABlQAAANEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgUgcIAZgAGQRCAqFIIQgATYCJAMoCxYABCAFBgcgDAcbuARRlCzKXIivDuKAe2XHWTxWm+FCxGLY6x0WMT+lDaOWP27BE9nVv6qendvtOcHRJ5QCCFJFZAQ5cyh07h7HN8B/OOyDcfn0PYCJinJSeqURDVCDEFeXIHDCCVFigUV5+1sWQXXnxM20RQEtsUJMaG2bvLhLKMAuooDm/GHPkQXMr92gLPHBsdb1kX6BANEAgCIIEQQBLMU0ovl5gtg5E5fMIxYP4MtYPXvqonmEAQEEDwUM0cmvRsh6DxASEYQoDL77IuzOisR7lGY8oAsj8DHg3vcMAODOdgfuuxvAXYe7BBTf+ECYCCEEQxSCYvCAkIzh4z0GKIoAlmxyr2KCfpUbsoMQ6HndBGyhfchrGvkNJWRgixgEWwIMGZKfTwfyGe4V/n8NYkuRWz/ySs8D+RhAgarJ0IViHgO4HE88BsinKz3pQ38GMdxFhHsDw57tXehsZzrViY4SjCKIc+JALWZyJ7wHghg8YEoCFZDl+dE58Y9wCaU2LnM8fah98sRaDTY/VQXaRR5MZgdDYiUI2fExWC8gOmCaNp0UYIeM1POjklHjWW/umumysnbVa7J5fX5ePIxgBYIjreLtyepvw7oSW7+TmM2PDRfMjxk8BivUsqTSPN7bdEhZeTTvMCwPHpAmj97YH2PHzVFR9CxqjRyxR40oNySfI0QuJ1YU5sflqjyVzsFRF3HlCcy4m5b0UG2BeW5aJhv/vCTVv9Mfkc4VvPu9gQjCxYA6gW8yLEHA3M7HU2tSKDiPB1kCvXqTlaaWdxZnFpa4V3BY74kL/S1fm3tt5XklRAcsbZG7j6yLaWIVP73r2N/Jrh0aX88+fCliz9mcfRcQ3Sd6JodCJIT2d0xyslZmpv1/cI9MnBlg2/fM9vQYU4fYxQ6ZOd6lT3msz8Hobh5yX6/IZElymB/igBd++iUNgfOnIf/VQjREI/Y3Lc9/2xe8wL/3tf7Z1KTTpE5bR3N3X7Qk+486iIQoBAACCJ1+7snF8XFtvhWYDwiAG0s3nAZ4n5iYju++mzUgjAIg8MgT5gc+vkMBgq2xXAOOgy4gRSaToW9K3xBS9AsVeos4PYC/AF0ASz0KaokgQAdA+hiY3AmNpE+LWztvKwA=) format('woff2');}</style></defs>
 
-<rect width="1000" height="56" rx="6" fill="#000000"/>
-<polygon points="0,0 251,0 227,56 0,56" fill="#FFD60A"/>
-<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="26" y="40" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="34" fill="#000000" textLength="171" lengthAdjust="spacingAndGlyphs">LIVE WORK</text>
-<line x1="277" y1="28" x2="890" y2="28" stroke="#FFD60A" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
-<rect x="902" y="22" width="12" height="12" fill="#FFD60A"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/></rect>
-<text x="978" y="34" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#FFD60A" text-anchor="end"  xml:space="preserve">CH.04</text>
+<polygon points="0,0 269,0 245,56 0,56" fill="#655A7C"/>
+<text x="28.0" y="40" font-family="AbrilS, 'Abril Fatface', 'Bodoni MT Black', 'Bodoni 72', Didot, Georgia, serif" font-size="32" font-weight="400" fill="#FDF1E2" letter-spacing="0.5" textLength="185.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve" >LIVE WORK</text>
+<line x1="297" y1="28" x2="960" y2="28" stroke="#AB92BF" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
+<rect x="976" y="22" width="12" height="12" rx="2" fill="#AB92BF"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
 
 </svg>

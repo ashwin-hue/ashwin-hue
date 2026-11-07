@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="My Product">
 <title>My Product</title>
-<defs></defs>
+<defs><style>@font-face{font-family:'AbrilS';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAQQAA8AAAAAByQAAAO8AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgggcIAZgAGQRCAqGLIUQATYCJAMsCxgABCAFBgcgDAcbbAURVZwUgo/DuLFrDqEN4llRtFgYxcUimjsevl/7nft2F7VkXv8wHc/ijS5eIrFBil6q3p++095uUs3UU5g6ydn0vog/cf7PxYu0z5sNbIQDnVhEXmEV2pG13nsLkIFd2YGdv+slc0aiPKm03Paxr1kfAj2AIoQuIdBlXkuZPh/ou0x9vCashn+j9kXm/TV+BEKtoNJjlqtCTwuEoTqhXaPkJ01+0pF3dWLdrjypOMfGrS4dGvIFLd/mY7zptzxH6VF5F4C+2W8D69MKQL2c7Md2MfXb0KFLI1Q6hKJSE1Rt2leoE1hQasp7CI2bhHVCiZsxoqG8lD484d140/JN0VSTCF2Fh4dyao2Ks3r2/w3IQr0axCutMG3ChtyISoDa7nLAgKpcbgkMeGEixWaCNqFgOOK/+ZXn8lgezSN5OA8Iihci/+tHd7s/hl4kiB2a1PSWRSgGjs+a7juH5aX4xZEWkpCRzO+joYXB/dE4Ak1N9XFQH7d9E/cz/dPSOBJxueUtERwkSGEeRAn1Mzm4f5OiWqNOIlQtBIiNIVMloCTPQflaidlUq9FBq619h3fvVlgBLYzsgf7lZ9z2zUGmjZMs1M/AeIroaxIhmisuyo70rbV0z7RwIoBhQMti/z51Tc79Pm4+PRjXqx6i6rv66Dn7fZwIFP2S4UssRGFAdAtngOtBQnF2fOTEbIpZcfITwwfn9YOHQldCiuIZcd4nOG6GNCq5rh/cl3ry3JJjhZLETBzmeyxukJGUBzdy75aH5PmdkiduU27E8vy5hX1YKzNqaLvd80jDTn8ZUH/GxHrKmpgS61L2ZHvjvi52hTXpofcU7qDhi4XfMWWrAG+Hfcewd2ypT514FvPMNdioQ2t243D0/sseGydjtp6BvlNa0+NRJQ2xRuF60/yCjaSVuE65sqslHQxDE0wi9dxtwTvVMtiVeMrzEKO2ArmwbzsPfCJ5WSHI2Tfa0mJdw6WDQhG5Gx4Beb42l+K9LFRsrTyDFYPd7KD+lMCvYf0O9xQXwbFIyULJyDEhF88M3RZy9Eu4xil1Izoz57IrGSPWZxoKa6XHygcPWhN74sqBp7JBm0zRK6JuU4H+jsR8i82OFGNRF1FXAAAACgAocPsdfuWcLOLwtQOz3gGAm409xwHAW3FxaeD9/60ypq8B4AcaAAAogI8VsHxKJPAeAQVANQDDdQCHAX0QVspnko1Stnzy5nUgQt+2YBfML0dLK7SNcBhM0JIACqiJC4BieIEFYv+PQMvhcep/5372IAA=) format('woff2');}</style></defs>
 
-<rect width="1000" height="56" rx="6" fill="#000000"/>
-<polygon points="0,0 270,0 246,56 0,56" fill="#FFD60A"/>
-<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="26" y="40" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="34" fill="#000000" textLength="190" lengthAdjust="spacingAndGlyphs">MY PRODUCT</text>
-<line x1="296" y1="28" x2="890" y2="28" stroke="#FFD60A" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
-<rect x="902" y="22" width="12" height="12" fill="#FFD60A"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/></rect>
-<text x="978" y="34" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#FFD60A" text-anchor="end"  xml:space="preserve">CH.02</text>
+<polygon points="0,0 299,0 275,56 0,56" fill="#655A7C"/>
+<text x="28.0" y="40" font-family="AbrilS, 'Abril Fatface', 'Bodoni MT Black', 'Bodoni 72', Didot, Georgia, serif" font-size="32" font-weight="400" fill="#FDF1E2" letter-spacing="0.5" textLength="215.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" >MY PRODUCT</text>
+<line x1="327" y1="28" x2="960" y2="28" stroke="#AB92BF" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
+<rect x="976" y="22" width="12" height="12" rx="2" fill="#AB92BF"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
 
 </svg>

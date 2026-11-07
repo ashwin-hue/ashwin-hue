@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="About Me">
 <title>About Me</title>
-<defs></defs>
+<defs><style>@font-face{font-family:'AbrilS';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAANwAA8AAAAABhwAAAMdAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgV4cIAZgAFwRCAqEYIN5ATYCJAMiCxQABCAFBgcgDAcbmQRRlA3KpQA/D2Mi0z3sEfFClIiak3s1xT2t/p0ci+/j4fl1z//a58zVzDPug5Ky4AQggyW+yk9GKbvCMzQuHxx0g+kkuYlN7H+AcNixO3hT98hmMww0CvB7ej73dS7heyADCiiQzALg0p3md8E9tSu6S4RAD0ASQlsIlMabIXVlRq8j+84c00sBPYM7fOjUMW2Yt1VIyHroYbLQQ4HQTwhZkuqLWvVTyUoFdjqiqUG9pdZWqG9dePIGKu++1as2+5S6IjbIQ1PqZKm28IuQ5AVbGbgzKpQaYRRyCik+jvsapFdTNm7bN4/vzfA3SSMjyQgA2Lix2zVX16Zi7P/fU4yNcQiI79Kr6MpIyBggCwxQWIpe2pKmrvkWWWWNTbXomseBjU+4WdNGDOsvqGaI+r/egJ0Z+qHC63hbUhiVRELYAoXok/uVZXf4oPaAIQfMy42VMqo91a5Kj9i+tdrT89bnbmwkGz4re0TVKA+l6taXETe/KLdv+E757XJP703lFyQsoy/HVcknnyRbcDf2imue76ksKjmcneVuH5VRzMW380Anf594e/ZARwdtIwSSeEjVG8yfHaUc5x0mH0Tktk5b9oEpjsXlYc4xNI86BCclHuQe+RD/U7pJNI+XdI91QBUQ+Osy/u7iBxrA8dmuMQgh5cnJ1rbKaqWGLVOW+bWYV7MDpXIluLqBgASPjraYspiSGrm6KLVovpKAtrQIhBSDXSThcrXRtmIRYxZQUF8nnExMrL0tRqnEbpvoR2FGij5lI5cplIGw4AKJcgkgBCSCEGUpcd3piFAJkMn/IUEqDPIiqj3MIK6rIds9jKthFaQZTeJ+eKZkwJ/KXtU6YNGzoNo6Ztk+CYnBfgGeVBVHRbxiMzI/MrNifEU1V65EgP2CEFyQd2q1cPNcUALFQGIy1i+Kojgkr08CyAClAw4QCPMfiLz6u4dw5m9t3PwjfHw1cwR+6NdvsGb9lgXSB2hLIPi2UV6qqRXzVMHFbR/iCemZZnpkYDphYF5qaPrVlPTYeAMFOibKICEE5ppUUyZXDzZD/UX8p63IAw==) format('woff2');}</style></defs>
 
-<rect width="1000" height="56" rx="6" fill="#000000"/>
-<polygon points="0,0 232,0 208,56 0,56" fill="#FFD60A"/>
-<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="26" y="40" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="34" fill="#000000" textLength="152" lengthAdjust="spacingAndGlyphs">ABOUT ME</text>
-<line x1="258" y1="28" x2="890" y2="28" stroke="#FFD60A" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
-<rect x="902" y="22" width="12" height="12" fill="#FFD60A"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/></rect>
-<text x="978" y="34" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#FFD60A" text-anchor="end"  xml:space="preserve">CH.01</text>
+<polygon points="0,0 252,0 228,56 0,56" fill="#655A7C"/>
+<text x="28.0" y="40" font-family="AbrilS, 'Abril Fatface', 'Bodoni MT Black', 'Bodoni 72', Didot, Georgia, serif" font-size="32" font-weight="400" fill="#FDF1E2" letter-spacing="0.5" textLength="167.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve" >ABOUT ME</text>
+<line x1="280" y1="28" x2="960" y2="28" stroke="#AB92BF" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
+<rect x="976" y="22" width="12" height="12" rx="2" fill="#AB92BF"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
 
 </svg>

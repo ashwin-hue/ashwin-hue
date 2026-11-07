@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="Github Pulse">
 <title>Github Pulse</title>
-<defs></defs>
+<defs><style>@font-face{font-family:'AbrilS';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAQkAA8AAAAAB1AAAAPPAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgXQcIAZgAGQRCAqGZIVSATYCJAMuCxoABCAFBgcgDAcbnAVRlA3KZJKvEmw6/Qp6RQiBUWCwGCz6YSgkO7gbkROf6yJ4f+39OXf3FRgUCdVUKIwnVLKuyhLK5gsNBHYH66xkpqukTruUpyvypgfoJbh8nvQUGkAgAGP/A8AKLITu2J06VTMWaC6UC2DIAhqRNTrWtr+njgVYrlltDe0GrliNCuDV2rbk3JJ9hPtIkyFCET1HrxCoASQhVAuBKiN8UQPcg3+41tsO+HI4GdDBVnc70O90eZ9cQqZGjQlQjRyhCRSSpLL4HSo+l6ziYN+kCiWKD1776n+g+OMRpqkEYUdiX5ee8/0A/9wvn/2vXTKi74JmqEKuYoFgdu7sD4uKqQlzb6kelha3p7i3lUqkm1gc+fXxzKxfQFLKAInOBlm6smJtLZo1Jrf9FyShXY6Np12ID6j7eKEFLR7jWAA0EKIxIFaCFOmyMYUQT0LyPvv/hQd3LjrvjFMFKhCi+A8EeM2WDkAt0Q1A7EMyx0YmtLjkux4XI2TtaM4V+kVeEuMKnlwJJvPBc4ICcSHWQXUUlqshnFKhYkOvg9dQhYBBqlcUldV2mDLiWbUA5/NrF9XID0OIIA8gCu1DrAKxqhk1livlG4xwGWIpMKmsyMQwne1wMODCPkdhMDlUEZsyPcFcM6VAhRAPTo1XVGHN9RmcGuozu8OsQvuVJ++evWhyEEwuJEasMZJhpXLAngayinxU8ErZAEgjiIFUJxVLVT3K+1mS825yNrVoyV5T6rbxurY9ss2OJGZ9DJ2Y5RXklpYaEBsQk2CY6G/qvzzGKzXUD0j0DW6KXWpLUovsAmy9ohLvC5xFotTHAcYxjqWTbUaMRE/rYBi2MgzMGfjscbsWbWht6GQqMLbhs3Y+e44drjp3eXvEsKVkYzHW04i9K6vbIza5Za1P3QgkwSQ08HZgGAkhYesdlHg7MZQE2yAw9iFB64MI1PyGRsPmlfZMbYNfi1T8QTz0DP55xw1rZJ2jRZ55rhv0uWNkapt/gTMgDffIKfVmXONCQDzyTQ9oyw3Z6Bpv9eF5W9H4RHtAt6X5Hqx7V+gla2wciQuuyPbts0qrdazeezi2dX66PWS1hT7/Id/gi8hNtjgFRs4b/CJus3GV0dzVjLRNyqzmRSfUukwSg1+APxhZtbegrvFGDFlNgi6Otg0Zre5ZdiyIhJEYBQ+AQJjfy+i+WSEI/wrT7+HJ2OIZgA9i8QmKb9N0GxUSCP5lOH1LMBrmCPwi1R4BJ6RjrXWS9txkX7Suhkn5pA0TpEJ+7TdCCqLGFBokhMAccmUycsVps+CL/Z87ZxkAAA==) format('woff2');}</style></defs>
 
-<rect width="1000" height="56" rx="6" fill="#000000"/>
-<polygon points="0,0 308,0 284,56 0,56" fill="#FFD60A"/>
-<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="26" y="40" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="34" fill="#000000" textLength="228" lengthAdjust="spacingAndGlyphs">GITHUB PULSE</text>
-<line x1="334" y1="28" x2="890" y2="28" stroke="#FFD60A" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
-<rect x="902" y="22" width="12" height="12" fill="#FFD60A"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/></rect>
-<text x="978" y="34" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#FFD60A" text-anchor="end"  xml:space="preserve">CH.07</text>
+<polygon points="0,0 319,0 295,56 0,56" fill="#655A7C"/>
+<text x="28.0" y="40" font-family="AbrilS, 'Abril Fatface', 'Bodoni MT Black', 'Bodoni 72', Didot, Georgia, serif" font-size="32" font-weight="400" fill="#FDF1E2" letter-spacing="0.5" textLength="235.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve" >GITHUB PULSE</text>
+<line x1="347" y1="28" x2="960" y2="28" stroke="#AB92BF" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
+<rect x="976" y="22" width="12" height="12" rx="2" fill="#AB92BF"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
 
 </svg>

@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="Tech Stack">
 <title>Tech Stack</title>
-<defs></defs>
+<defs><style>@font-face{font-family:'AbrilS';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAOYAA8AAAAABigAAANFAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgUQcIAZgAGQRCAqFAIQhATYCJAMkCxQABCAFBgcgDAcbsQRRVC+OQH4exkSmPtZmKEN5os7kLHJXYp6I+tVZRISP4wGyC//N7AXwxVYFqQXZQlVSoY1Lfe6gXX6hpM4V8ERj1XZXTcRmq/8BwmHH7tDl9M9+8ws/4RvtRZPWatgiymxxtDGNMEs4sFxLtyFIERDRQKf6d37+CAH5AVEQ5BYE5FVNEzGLIwrOm7xsgYIy8MdYmzt9yQK54VzUiBbIbYzIvW+SJXLJQTqv2Dukx45duI1mbePdL2ErabdRxyGmruQFNmu022HknQ9EIE7k5EMiIwcDueIA0kR8CqbyKko4QQzPQ44cxIdxO3ZaX1z4oIm/iXIkiBIEABg2LJvVSdawTJX/P5CpEqoiQHgfe5GVICJBcYmA4jIGobDCEmR11lV3vfQ1LOWDhr7WDRk0oE+P1gKhBSFNY4Lm8e6iyI03hMKADO9Yms8tnGSzU7x8Cpi/U95hEAjQG46H6IObS765OLmUNUg4w2HgcC6+CvD19A1IrBF5HPkcwbt1byZ9EABySGyIQHKwvsy4igXGAKmANwNPSAHILD1zVY4Z5CJFYY5gCAbDXDvphtX+xEbqOjLpZbLUOxo8bTe+mrK21jbV1cd1Scpx6ADnzOsE364lpwBQ1rOZP8ABjGxg7bUxbrFhjgqKNfyvt/uply9mjHxePHPcImU3F8kMzLItt4ka+5aVeh+65aNV/LpVzQ2+3QOlmsv4sfwxMNcmq2yA1xxY7jxjrFIB7n1GV1UUVtA2mmGSZGExW1Dk1BX3SInkcMRotsTY1XPawloVU1OaUFJHqkg9V88ZTRipIRV+J87GxZQ1YrlUrVFDsXY1Tx7WlJAuUqjusK59SxT8d7ktGYAmFoqRdq3z63QTuFqJdF29ZkHzOH7eqnw5p5gVnEJmkVZ0bTVxUJPllfpOqzHlZEOXeZvTFrTeXyF3wVcF6X4UkRmxNdWKB3R/I5mNXSd1yr9/eIn5JYbvZ+jUfVrttcXy/E0CAUGX5g2PnJlYqN3P3DD5DM9Xbe2ET0VZS8uZ/oqbcQK5RRD4yN34Y8NybhCAyuOp5ibx9lq8rnZcpET8sT/cR2XiKE3jBdUE5NFQBBFBQCcA5JQAaVtNyPzdkG5aZhc=) format('woff2');}</style></defs>
 
-<rect width="1000" height="56" rx="6" fill="#000000"/>
-<polygon points="0,0 270,0 246,56 0,56" fill="#FFD60A"/>
-<text stroke="#000000" stroke-width="1.4" stroke-linejoin="round" x="26" y="40" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="34" fill="#000000" textLength="190" lengthAdjust="spacingAndGlyphs">TECH STACK</text>
-<line x1="296" y1="28" x2="890" y2="28" stroke="#FFD60A" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
-<rect x="902" y="22" width="12" height="12" fill="#FFD60A"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/></rect>
-<text x="978" y="34" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#FFD60A" text-anchor="end"  xml:space="preserve">CH.05</text>
+<polygon points="0,0 291,0 267,56 0,56" fill="#655A7C"/>
+<text x="28.0" y="40" font-family="AbrilS, 'Abril Fatface', 'Bodoni MT Black', 'Bodoni 72', Didot, Georgia, serif" font-size="32" font-weight="400" fill="#FDF1E2" letter-spacing="0.5" textLength="207.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve" >TECH STACK</text>
+<line x1="319" y1="28" x2="960" y2="28" stroke="#AB92BF" stroke-width="3" stroke-dasharray="14 8"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/></line>
+<rect x="976" y="22" width="12" height="12" rx="2" fill="#AB92BF"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
 
 </svg>
